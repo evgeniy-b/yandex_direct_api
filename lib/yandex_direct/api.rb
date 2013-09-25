@@ -58,7 +58,7 @@ module Yandex
             raise ApiException.new(response["error_str"], response["error_code"], response["error_detail"])
           end
 
-          response
+          response["data"]
         end
     end
   end

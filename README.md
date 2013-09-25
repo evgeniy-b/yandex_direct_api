@@ -1,4 +1,4 @@
-direct_api
+yandex_direct_api
 ==========
 
-Yandex Direct Api wrapper
+Yandex.Direct api wrapper
